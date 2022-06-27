@@ -1,4 +1,4 @@
-## Telresender
+## TeleResender
 Just resend your messages.
 
 ## Install
