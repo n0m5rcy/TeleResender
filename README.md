@@ -8,3 +8,4 @@ Just resend your messages.
 
 ## License
 "telresender" is licensed under the [MIT License](https://github.com/bixnel/telresender/blob/master/LICENSE).
+deploy to heroku or back4app.com
